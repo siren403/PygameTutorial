@@ -12,9 +12,6 @@ edges = (
     (0, 2)
 )
 
-colors = (
-
-)
 
 def update():
     glBegin(GL_LINES)
